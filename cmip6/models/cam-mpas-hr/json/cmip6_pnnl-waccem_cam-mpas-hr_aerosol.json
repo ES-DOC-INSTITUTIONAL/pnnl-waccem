@@ -1,0 +1,8 @@
+{
+    "mipEra": "cmip6", 
+    "institute": "pnnl-waccem", 
+    "seedingSource": "Spreadsheet", 
+    "sourceID": "cam-mpas-hr", 
+    "topic": "aerosol", 
+    "content": {}
+}
